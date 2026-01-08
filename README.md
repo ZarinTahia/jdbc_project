@@ -13,7 +13,7 @@ This project is a **Java-based application using JDBC (Java Database Connectivit
 
 ## Project Architecture
 jdbc_project/
-- src/main/java/jdbc/
+src/main/java/jdbc/
 - controller/ # Handles user requests and application flow
 - service/ # Business logic layer
 - dao/ # Database access using JDBC
